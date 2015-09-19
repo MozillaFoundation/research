@@ -1,5 +1,5 @@
-# Research at Mozilla Foundation
-# Global Web Literacy Studies 
+## Global Web Literacy Studies 
+**Research at Mozilla Foundation**
 
 Welcome to the research repository. This is the place to file a question or participate in our projects !
 
