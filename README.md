@@ -8,6 +8,7 @@ Here are our Global Web Literacy Studies published:
 * mzl.la/bangladesh
 * mzl.la/kenya
 * mzl.la/india
+* mzl.la/chicago
 
 A synthesis from Kenya, Bangladesh and India: 
 * mzl.la/research
