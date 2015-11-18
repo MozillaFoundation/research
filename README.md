@@ -14,4 +14,4 @@ A synthesis from Kenya, Bangladesh and India:
 * mzl.la/research
 
 A study of Rio's LAN Houses 
-* mzl.la/rio
+* mzl.la/lanhouses
