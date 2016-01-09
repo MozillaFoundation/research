@@ -3,6 +3,8 @@
 
 Welcome to the research repository. This is the place to file a question or participate in our projects !
 
+**You can see the most up-to-date research activity on the [Mozilla Foundation Research website](http://mzl.la/research)**.
+
 Here are our Global Web Literacy Studies published: 
 
 * [mzl.la/bangladesh](http://mzl.la/bangladesh)
@@ -11,7 +13,7 @@ Here are our Global Web Literacy Studies published:
 * [mzl.la/chicago](http://mzl.la/chicago)
 
 A synthesis from Kenya, Bangladesh and India: 
-* [mzl.la/research](http://mzl.la/research)
+* [mzl.la/syntehsis](http://mzl.la/synthesis)
 
 A study of Rio's LAN Houses 
 * [mzl.la/lanhouses](http://mzl.la/lanhouses)
