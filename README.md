@@ -1,11 +1,10 @@
-## Studying the Global Web
-**Research at Mozilla Foundation**
+## Mozilla Foundation Research
 
-Welcome to the research repository. This is the place to file a question or participate in our projects !
+Feel free to file ask questions and participate in our projects by filing an issue!
 
 **You can see the most up-to-date research activity on the [Mozilla Foundation Research website](http://mzl.la/research)**.
 
-Here are our Global Web Literacy Studies published: 
+[Global Web Literacy Studies](http://mzl.la/globalweb):
 
 * [mzl.la/bangladesh](http://mzl.la/bangladesh)
 * [mzl.la/kenya](http://mzl.la/kenya)
